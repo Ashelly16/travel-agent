@@ -69,6 +69,8 @@ streamlit run streamlit_app.py
 #### 输出：
 一份包含每日安排、酒店推荐、景点推荐、天气提醒的完整行程表。
 
+![img.png](img.png)
+
 ### 📌 当前状态
 ✅ Agent 核心推理链路已跑通
 ✅ 酒店 / 景点 / 天气 三个工具已实现
